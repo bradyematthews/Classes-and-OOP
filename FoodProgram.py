@@ -56,6 +56,7 @@ if customer1.get_member_status() == True:
    print("Total cost after Discount: $", format(float(discounted_total), '.2f'))
 else:
     print()
+    
 
 
 
